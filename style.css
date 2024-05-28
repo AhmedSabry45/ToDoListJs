@@ -174,7 +174,7 @@ button {
 
 .item textarea {
   width: 100%;
-  min-height: 380px;
+  min-height: 500px;
   outline: none;
   border: none;
   resize: none;
